@@ -41,7 +41,7 @@
 		4B5D8D991F2C4BC700FA4072 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		4B5D8D9B1F2C4BC700FA4072 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4B5D8D9E1F2C4BC700FA4072 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		4B5D8DA01F2C4BC700FA4072 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4B5D8DA01F2C4BC700FA4072 /* Info.plist */ = {isa = PBXFileReference; explicitFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		4B5D8DA51F2C4BC700FA4072 /* FastPitchrTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FastPitchrTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B5D8DA91F2C4BC700FA4072 /* FastPitchrTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FastPitchrTests.swift; sourceTree = "<group>"; };
 		4B5D8DAB1F2C4BC700FA4072 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };

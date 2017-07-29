@@ -55,6 +55,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        prepareCamera()
     }
     
     override func didReceiveMemoryWarning() {

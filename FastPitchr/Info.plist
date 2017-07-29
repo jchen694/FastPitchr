@@ -24,10 +24,13 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
+	<key>NSCameraUsageDescription</key>
+	<string>cuz i can</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
 		<string>auto-focus-camera</string>
+		<string>video-camera</string>
 	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
