@@ -14,6 +14,7 @@
 		4B5D8D9F1F2C4BC700FA4072 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B5D8D9D1F2C4BC700FA4072 /* LaunchScreen.storyboard */; };
 		4B5D8DAA1F2C4BC700FA4072 /* FastPitchrTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5D8DA91F2C4BC700FA4072 /* FastPitchrTests.swift */; };
 		4B5D8DB51F2C4BC700FA4072 /* FastPitchrUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5D8DB41F2C4BC700FA4072 /* FastPitchrUITests.swift */; };
+		4B5D8DC31F2C4C4E00FA4072 /* PhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5D8DC21F2C4C4E00FA4072 /* PhotoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		4B5D8DB01F2C4BC700FA4072 /* FastPitchrUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FastPitchrUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B5D8DB41F2C4BC700FA4072 /* FastPitchrUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FastPitchrUITests.swift; sourceTree = "<group>"; };
 		4B5D8DB61F2C4BC700FA4072 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4B5D8DC21F2C4C4E00FA4072 /* PhotoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				4B5D8D941F2C4BC700FA4072 /* AppDelegate.swift */,
 				4B5D8D961F2C4BC700FA4072 /* ViewController.swift */,
+				4B5D8DC21F2C4C4E00FA4072 /* PhotoViewController.swift */,
 				4B5D8D981F2C4BC700FA4072 /* Main.storyboard */,
 				4B5D8D9B1F2C4BC700FA4072 /* Assets.xcassets */,
 				4B5D8D9D1F2C4BC700FA4072 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				4B5D8D971F2C4BC700FA4072 /* ViewController.swift in Sources */,
 				4B5D8D951F2C4BC700FA4072 /* AppDelegate.swift in Sources */,
+				4B5D8DC31F2C4C4E00FA4072 /* PhotoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
