@@ -196,6 +196,7 @@
 				TargetAttributes = {
 					4B5D8D901F2C4BC700FA4072 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = BUFPZZ99SN;
 						ProvisioningStyle = Automatic;
 					};
 					4B5D8DA41F2C4BC700FA4072 = {
@@ -416,7 +417,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = BUFPZZ99SN;
 				INFOPLIST_FILE = FastPitchr/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = qweeinc.FastPitchr;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -428,7 +431,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = BUFPZZ99SN;
 				INFOPLIST_FILE = FastPitchr/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = qweeinc.FastPitchr;
 				PRODUCT_NAME = "$(TARGET_NAME)";
