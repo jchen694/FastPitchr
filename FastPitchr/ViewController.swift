@@ -52,9 +52,11 @@ class ViewController: UIViewController {
             captureSession.commitConfiguration()
         }
     }
+
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        self.navigationController?.isNavigationBarHidden = true
         prepareCamera()
     }
     
